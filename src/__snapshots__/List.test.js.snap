@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DOM renders all elements Renders without crashes 1`] = `
+<section
+  className="List"
+>
+  <header
+    className="List-header"
+  >
+    <h2 />
+  </header>
+  <div
+    className="List-cards"
+  >
+    <div
+      className="Cards"
+    >
+      <button
+        type="button"
+      >
+        Delete
+      </button>
+      <h3>
+        myCard
+      </h3>
+      <p>
+        myContent
+      </p>
+    </div>
+    <button
+      class="list-add-card"
+      type="button"
+    >
+      +Add a Card
+    </button>
+  </div>
+</section>
+`;
